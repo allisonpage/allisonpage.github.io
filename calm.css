@@ -1,0 +1,84 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	margin:0;
+	background-color: #D5F6F0;
+	line-height: .5;
+}
+
+
+#container {
+	width: 900px;
+	margin: 0 auto;
+}
+
+header 
+.title {
+	height: 250px;
+	padding-top: 10px;
+	text-align: center;
+	font-size: 25px;
+	
+
+	background-color: #BEF1E8;
+
+	color: black;
+
+	font-family: ;
+	line-height: 70px;
+}
+
+header h1{ 
+	font-size: 5rem;
+
+ }
+
+ #about{
+ 	text-align: center;
+ 	width: 500px;
+ 	/*padding-right: 40px;*/
+ 	margin: 0 auto;
+ 	line-height: 100%
+ 	margin-right: 20%;
+ }
+.title {
+	/*background-color: pink;*/
+	/*height: 300px;*/
+	color: black;
+	padding-top: 20px;
+	text-align: center, fixed;
+
+}
+
+.menu{
+	list-style: none;
+	position: fixed; 
+	top: 319px;
+
+}
+
+.menu li{
+width: 100px;
+height: 30px;
+border: 2px solid black;
+margin: 2px;
+
+
+
+
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+.menu a {
+	background-color: none;
+	float: left;
+	width: 100%;
+	margin-top: 10px;
+	height: 10px;
+	display: block;
+	list-style: none; 
+	text-align: center;
+
+}
